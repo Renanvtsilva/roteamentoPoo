@@ -1,0 +1,11 @@
+{
+    "name": "renan.viana/rotas-poo",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "require": {
+        "league/plates": "^3.6"
+    }
+}
